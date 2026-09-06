@@ -1,0 +1,8 @@
+{
+  "version": "week12_v1.0",
+  "layers": {
+    "raw": "招股书抽取结果",
+    "standardized": "统一字段后的数据",
+    "analysis": "横向研究分析层"
+  }
+}
